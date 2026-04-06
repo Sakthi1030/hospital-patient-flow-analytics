@@ -43,6 +43,8 @@ For a full Youtube Tutorial of this project click this [Part-1 link](xxx)/[Part-
 ## Pipeline
 
 <img width="4719" height="2432" alt="Architecture" src="xxx" />
+<img width="1860" height="920" alt="Screenshot 2026-04-06 170904" src="https://github.com/user-attachments/assets/d34c0965-7baf-4ffb-acf6-5d3729a5ab32" />
+
 
 
 ---
