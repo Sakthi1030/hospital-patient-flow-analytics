@@ -25,7 +25,7 @@ git commit -m "Added patient flow data generator with dirty data simulation"
 #github push
 cd hospital-patient-flow-analytics
 
-git remote add origin https://github.com/Jay61616/hospital-patient-flow-analytics.git
+git remote add origin xxx
 
 git remote -v
 
