@@ -75,7 +75,7 @@ real-time-patient-flow-azure/
 │   └── patient_flow_generator.py
 ├── sqlpool-quries/        # SQL scripts for Synapse
 │   └── SQL_pool_quries.sql
-├── git_commands/                  # Git Commands
+├── git_commands/                  # Git setup and GitHub push commands
 └── README.md              # Project documentation
 ```
 
@@ -146,7 +146,7 @@ The **Gold layer** data in Synapse follows a **star schema** for optimized analy
 
 ### **6. Version Control**
 - Version control with **Git**:
-  - [Commands reference](git_commands/git_bash)
+  - [Commands reference](git_commands/git_bash.txt)
 
 ---
 
