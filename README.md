@@ -49,7 +49,8 @@ The pipeline ingests streaming data, processes it in **Databricks (PySpark)**, a
 
 
 
-<img width="1860" height="920" alt="Screenshot 2026-04-06 170904" src="https://github.com/user-attachments/assets/d34c0965-7baf-4ffb-acf6-5d3729a5ab32" />
+<img width="1860" height="920" alt="Screenshot 2026-04-06 170904" src="https://github.com/user-attachments/assets/b45c9202-e03b-42cb-9a89-c4daf26b2ce2" />
+
 
 
 
